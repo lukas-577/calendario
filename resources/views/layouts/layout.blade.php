@@ -46,6 +46,7 @@
     <main>
         @yield('header')
         @yield('reservate')
+        @yield('contact')
     </main>
 
 

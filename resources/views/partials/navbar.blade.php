@@ -21,7 +21,7 @@
                     <a href="404.html" class="dropdown-item">404 Page</a>
                 </div>
             </div>
-            <a href="contact.html" class="nav-item nav-link">Contact</a>
+            <a href="{{ url('/contact') }}" class="nav-item nav-link">Contact</a>
         </div>
         <a href="{{url('/reserva')}}" class="btn btn-primary">Reserva acá<i class="fa fa-arrow-right ms-3"></i></a>
     </div>

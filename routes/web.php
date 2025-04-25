@@ -10,3 +10,7 @@ Route::get('/reserva', function () {
     return view('pages.reservate');
 });
 
+Route::get('/contact', function () {
+    return view('pages.contact');
+});
+
