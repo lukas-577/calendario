@@ -59,12 +59,6 @@
             </div>
         </div>
         <div class="row gy-5 gx-4">
-            <div class="col-lg-3 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
-                <img class="img-fluid mb-3" src="img/icon/icon-2.png" alt="Icon" />
-                <h5 class="mb-3">Car Parking</h5>
-                <span>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem
-                    sed diam stet diam sed stet.</span>
-            </div>
             <div class="col-lg-3 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
                 <img class="img-fluid mb-3" src="img/icon/icon-3.png" alt="Icon" />
                 <h5 class="mb-3">Animal Photos</h5>
@@ -80,24 +74,6 @@
             <div class="col-lg-3 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
                 <img class="img-fluid mb-3" src="img/icon/icon-5.png" alt="Icon" />
                 <h5 class="mb-3">Food & Beverages</h5>
-                <span>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem
-                    sed diam stet diam sed stet.</span>
-            </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
-                <img class="img-fluid mb-3" src="img/icon/icon-6.png" alt="Icon" />
-                <h5 class="mb-3">Zoo Shopping</h5>
-                <span>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem
-                    sed diam stet diam sed stet.</span>
-            </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
-                <img class="img-fluid mb-3" src="img/icon/icon-7.png" alt="Icon" />
-                <h5 class="mb-3">Free Hi Speed Wi-Fi</h5>
-                <span>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem
-                    sed diam stet diam sed stet.</span>
-            </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
-                <img class="img-fluid mb-3" src="img/icon/icon-8.png" alt="Icon" />
-                <h5 class="mb-3">Play Ground</h5>
                 <span>Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem
                     sed diam stet diam sed stet.</span>
             </div>
